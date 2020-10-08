@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/administrators/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/administrators/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/administrators/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/administrators/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/customers/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,22 +252,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="271" y="262" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602071338841" />
-    <state width="1493" height="196" key="GridCell.Tab.0.bottom" timestamp="1602072420888">
+    <state width="723" height="195" key="GridCell.Tab.0.bottom" timestamp="1602150711032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602072420888" />
-    <state width="1493" height="196" key="GridCell.Tab.0.center" timestamp="1602072420888">
+    <state width="723" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602150711032" />
+    <state width="723" height="195" key="GridCell.Tab.0.center" timestamp="1602150711030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602072420888" />
-    <state width="1493" height="196" key="GridCell.Tab.0.left" timestamp="1602072420888">
+    <state width="723" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602150711030" />
+    <state width="723" height="195" key="GridCell.Tab.0.left" timestamp="1602150711029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602072420888" />
-    <state width="1493" height="196" key="GridCell.Tab.0.right" timestamp="1602072420888">
+    <state width="723" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602150711029" />
+    <state width="723" height="195" key="GridCell.Tab.0.right" timestamp="1602150711031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602072420888" />
+    <state width="723" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602150711031" />
     <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602069934055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
