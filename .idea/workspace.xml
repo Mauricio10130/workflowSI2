@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="" />
+    <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
     <execution>
       <phar pharPath="C:\ProgramData\ComposerSetup\bin\composer.phar" interpreterId="3e64a3c5-b270-4657-a40c-f8575f17abbb" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -178,11 +184,15 @@
       <workItem from="1601757513957" duration="3676000" />
       <workItem from="1601786028771" duration="4154000" />
       <workItem from="1601800386703" duration="1501000" />
+      <workItem from="1602149417612" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="71" y="70" key="#CLI_Interpreters" timestamp="1601679014844">
