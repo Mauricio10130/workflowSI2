@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\CustomersController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,3 +23,7 @@ Auth::routes();
 
 //Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/', 'HomeController@index')->name('home');
+Route::resource('clientes', 'CustomersController');
+Route::resource('empleados', 'EmployeesController');
+Route::resource('administradores', 'AdministratorController');
+Route::resource('roles', 'RoleController');
