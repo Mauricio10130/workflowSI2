@@ -66,9 +66,6 @@
             <div class="row">
                 <div class="form-group col-md-6">
                     <label>Departamento</label>
-<<<<<<< HEAD
-                    <input type="text" name="departamento" class="form-control">
-=======
 {{--                    <input type="text" name="department_id" class="form-control" value="{{$user->department_id}}">--}}
                     <select name="department_id" class="form-control">
                         @foreach($departments as $department)
@@ -79,7 +76,6 @@
                             @endif
                         @endforeach
                     </select>
->>>>>>> Mauricio
                 </div>
             </div>
             <div class="row">
