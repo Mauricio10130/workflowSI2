@@ -27,3 +27,7 @@ Route::resource('clientes', 'CustomersController');
 Route::resource('empleados', 'EmployeesController');
 Route::resource('administradores', 'AdministratorController');
 Route::resource('roles', 'RoleController');
+<<<<<<< HEAD
+=======
+Route::resource('departamentos', 'DepartmentsController');
+>>>>>>> Mauricio

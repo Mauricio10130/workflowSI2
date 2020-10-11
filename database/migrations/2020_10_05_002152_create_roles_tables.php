@@ -15,10 +15,19 @@ class CreateRolesTables extends Migration
     {
         Schema::create('roles', function (Blueprint $table) {
             $table->bigIncrements('id');
+<<<<<<< HEAD
             $table->string('name');
             $table->timestamps();
         });
 
+=======
+            $table->string('name')->unique();
+            $table->timestamps();
+        });
+
+        //Al crear una tabla intermedia, se lo tiene que hacer en singular y tiene que llevar el nombre de ambas tablas,
+        // se tiene que respetar el orden alfabético, roles= 1 y users = 2 => role_user
+>>>>>>> Mauricio
         Schema::create('role_user', function (Blueprint $table) {
             $table->primary('user_id', 'role_id');
 

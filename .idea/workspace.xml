@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="" />
+    <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_05_002152_create_roles_tables.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_05_002152_create_roles_tables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/employees/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/employees/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/employees/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,8 +216,10 @@
       <workItem from="1601727513202" duration="2579000" />
       <workItem from="1601757513957" duration="3676000" />
       <workItem from="1601786028771" duration="4154000" />
+
       <workItem from="1601800386703" duration="1501000" />
       <workItem from="1602149417612" duration="1023000" />
+
       <workItem from="1601800386703" duration="3030000" />
       <workItem from="1601809377126" duration="52000" />
       <workItem from="1601863714894" duration="10412000" />
@@ -217,6 +231,15 @@
       <workItem from="1602017604906" duration="5703000" />
       <workItem from="1602023357181" duration="6088000" />
       <workItem from="1602061961479" duration="10438000" />
+
+      <workItem from="1602213124502" duration="9735000" />
+      <workItem from="1602235362276" duration="9487000" />
+      <workItem from="1602300473997" duration="5597000" />
+      <workItem from="1602308770878" duration="8150000" />
+      <workItem from="1602326613570" duration="9286000" />
+      <workItem from="1602382026143" duration="8524000" />
+      <workItem from="1602405465605" duration="15081000" />
+
     </task>
     <servers />
   </component>
@@ -244,6 +267,7 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601667499167" />
+
     <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601988031668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -272,10 +296,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602069934055" />
+
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602304221160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602304221160" />
+    <state x="271" y="262" key="FileChooserDialogImpl" timestamp="1602413975474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="262" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602413975474" />
+    <state width="723" height="190" key="GridCell.Tab.0.bottom" timestamp="1602420438038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602420438038" />
+    <state width="723" height="190" key="GridCell.Tab.0.center" timestamp="1602420438037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602420438037" />
+    <state width="723" height="190" key="GridCell.Tab.0.left" timestamp="1602420438037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602420438037" />
+    <state width="723" height="190" key="GridCell.Tab.0.right" timestamp="1602420438038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602420438038" />
+    <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602304158917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602304158917" />
+    <state x="192" y="136" key="RollbackChangesDialog" timestamp="1602216255275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="192" y="136" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602216255275" />
+
     <state x="0" y="60" key="SettingsEditor" timestamp="1601679033839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601679033839" />
+
     <state x="608" y="0" width="538" height="584" key="dock-window-1" timestamp="1602064428202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -288,5 +347,23 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601940930412" />
+
+    <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1602406935467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602406935467" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-2" timestamp="1602415235222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602415235222" />
+    <state x="41" y="190" key="run.anything.popup" timestamp="1602383933492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602383933492" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602313254761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602313254761" />
+
   </component>
 </project>

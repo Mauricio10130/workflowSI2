@@ -60,7 +60,16 @@
             <div class="row">
                 <div class="form-group col-md-6">
                     <label>Departamento</label>
+<<<<<<< HEAD
                     <input type="text" name="departamento" class="form-control">
+=======
+                    <select name="department_id" class="form-control">
+                        <option selected disabled>Elige un rol para usarlo...</option>
+                        @foreach($departments as $department)
+                            <option value="{{$department->id}}">{{$department->name}}</option>
+                        @endforeach
+                    </select>
+>>>>>>> Mauricio
                 </div>
             </div>
             <div class="row">
