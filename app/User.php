@@ -49,4 +49,10 @@ class User extends Authenticatable
     public function tieneRol(){
         return $this->roles->flatten()->pluck('name')->unique();
     }
+
+    //Un usuario está en un departamento
+    public function departments()
+    {
+        return $this->belongsTo('App\Models\Department');
+    }
 }

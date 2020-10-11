@@ -27,3 +27,4 @@ Route::resource('clientes', 'CustomersController');
 Route::resource('empleados', 'EmployeesController');
 Route::resource('administradores', 'AdministratorController');
 Route::resource('roles', 'RoleController');
+Route::resource('departamentos', 'DepartmentsController');
