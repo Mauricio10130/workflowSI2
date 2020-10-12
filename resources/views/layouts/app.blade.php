@@ -222,6 +222,13 @@
                                 </a>
                             </li>
                             <li class="nav-item">
+                                <a href="{{ url('estados') }}"
+                                   class="{{ Request::path() === 'estados' ? 'nav-link active' : 'nav-link' }}">
+                                    <i class="fas fa-angle-double-right nav-icon"></i>
+                                    <p>Estados</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="{{ url('roles') }}"
                                    class="{{ Request::path() === 'roles' ? 'nav-link active' : 'nav-link' }}">
                                     <i class="fas fa-angle-double-right nav-icon"></i>

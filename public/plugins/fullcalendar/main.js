@@ -4398,7 +4398,7 @@ Docs & License: https://fullcalendar.io/
         var endMarker = framingRange.end;
         var instanceStarts = [];
         while (dayMarker < endMarker) {
-            var instanceStart 
+            var instanceStart
             // if everyday, or this particular day-of-week
             = void 0;
             // if everyday, or this particular day-of-week
@@ -7274,7 +7274,7 @@ Docs & License: https://fullcalendar.io/
         };
         // Event-Date Utilities
         // -----------------------------------------------------------------------------------------------------------------
-        // Given an event's allDay status and start date, return what its fallback end date should be.
+        // Given an event's allDay states and start date, return what its fallback end date should be.
         // TODO: rename to computeDefaultEventEnd
         Calendar.prototype.getDefaultEventEnd = function (allDay, marker) {
             var end = marker;
