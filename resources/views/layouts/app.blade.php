@@ -298,9 +298,16 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
+                                <a href="{{ url('categorias') }}"
+                                   class="{{ Request::path() === 'clientes' ? 'nav-link active' : 'nav-link' }}">
+                                    <i class="fas fa-angle-double-right nav-icon"></i>
+                                    <p>Tipos</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     <i class="fas fa-angle-double-right nav-icon"></i>
-                                    <p>Solicitud de Crédito</p>
+                                    <p>Registro de Trámite</p>
                                 </a>
                             </li>
                         </ul>
