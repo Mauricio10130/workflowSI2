@@ -14,7 +14,7 @@
   //  - plugin is external module for customizing.
   $.extend($.summernote.plugins, {
     /**
-     * @param {Object} context - context object has status of editor.
+     * @param {Object} context - context object has states of editor.
      */
     'hello': function(context) {
       var self = this;

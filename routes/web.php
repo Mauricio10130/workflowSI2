@@ -28,3 +28,4 @@ Route::resource('empleados', 'EmployeesController');
 Route::resource('administradores', 'AdministratorController');
 Route::resource('roles', 'RoleController');
 Route::resource('departamentos', 'DepartmentsController');
+Route::resource('estados', 'StatesController');

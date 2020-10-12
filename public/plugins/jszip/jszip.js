@@ -3459,8 +3459,8 @@ exports.prepareContent = function(name, inputData, isBinary, isOptimizedBinarySt
 
     // if inputData is already a promise, this flatten it.
     var promise = external.Promise.resolve(inputData).then(function(data) {
-        
-        
+
+
         var isBlob = support.blob && (data instanceof Blob || ['[object File]', '[object Blob]'].indexOf(Object.prototype.toString.call(data)) !== -1);
 
         if (isBlob && typeof FileReader !== "undefined") {
@@ -4863,8 +4863,8 @@ Deflate.prototype.onData = function (chunk) {
 
 
 /**
- * Deflate#onEnd(status) -> Void
- * - status (Number): deflate status. 0 (Z_OK) on success,
+ * Deflate#onEnd(states) -> Void
+ * - states (Number): deflate states. 0 (Z_OK) on success,
  *   other if not.
  *
  * Called once after you tell deflate that the input stream is
@@ -5281,8 +5281,8 @@ Inflate.prototype.onData = function (chunk) {
 
 
 /**
- * Inflate#onEnd(status) -> Void
- * - status (Number): inflate status. 0 (Z_OK) on success,
+ * Inflate#onEnd(states) -> Void
+ * - states (Number): inflate states. 0 (Z_OK) on success,
  *   other if not.
  *
  * Called either after you tell inflate that the input stream is

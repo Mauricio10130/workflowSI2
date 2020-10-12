@@ -4397,8 +4397,8 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
         //
         //
         // var a = params ? R.animation(params, ms, easing, callback) : anim,
-        //     status = element.status(anim);
-        // return this.animate(a).status(a, status * anim.ms / a.ms);
+        //     states = element.states(anim);
+        // return this.animate(a).states(a, states * anim.ms / a.ms);
     };
     function CubicBezierAtTime(t, p1x, p1y, p2x, p2y, duration) {
         var cx = 3 * p1x,
@@ -4803,7 +4803,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
      * Element.setTime
      [ method ]
      **
-     * Sets the status of animation of the element in milliseconds. Similar to @Element.status method.
+     * Sets the states of animation of the element in milliseconds. Similar to @Element.states method.
      **
      > Parameters
      **
@@ -4822,22 +4822,22 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
         return this;
     };
     /*\
-     * Element.status
+     * Element.states
      [ method ]
      **
-     * Gets or sets the status of animation of the element.
+     * Gets or sets the states of animation of the element.
      **
      > Parameters
      **
      - anim (object) #optional animation object
-     - value (number) #optional 0 – 1. If specified, method works like a setter and sets the status of a given animation to the value. This will cause animation to jump to the given position.
+     - value (number) #optional 0 – 1. If specified, method works like a setter and sets the states of a given animation to the value. This will cause animation to jump to the given position.
      **
-     = (number) status
+     = (number) states
      * or
-     = (array) status if `anim` is not specified. Array of objects in format:
+     = (array) states if `anim` is not specified. Array of objects in format:
      o {
      o     anim: (object) animation object
-     o     status: (number) status
+     o     states: (number) states
      o }
      * or
      = (object) original element if `value` is specified

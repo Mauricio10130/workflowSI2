@@ -27,6 +27,35 @@
       <change beforePath="$PROJECT_DIR$/resources/views/employees/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/employees/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/employees/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employees/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DepartmentsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DepartmentsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/RoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/RoleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/datatables-fixedheader/js/dataTables.fixedHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/datatables-fixedheader/js/dataTables.fixedHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/datatables/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/datatables/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/fullcalendar/main.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/fullcalendar/main.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/fullcalendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/fullcalendar/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/jquery-ui/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/jquery-ui/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/jquery-ui/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/jquery-validation/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/jquery-validation/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/jszip/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/jszip/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/raphael/dev/raphael.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/raphael/dev/raphael.core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/raphael/raphael.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/raphael/raphael.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/raphael/raphael.no-deps.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/raphael/raphael.no-deps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/select2/js/select2.full.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/select2/js/select2.full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/select2/js/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/select2/js/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/plugin/hello/summernote-ext-hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/plugin/hello/summernote-ext-hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote-bs4.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote-bs4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote-bs4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote-bs4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote-lite.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote-lite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote-lite.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote-lite.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plugins/summernote/summernote.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/plugins/summernote/summernote.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/departments/modal-delete.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/departments/modal-delete.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,6 +266,7 @@
       <workItem from="1602424649351" duration="295000" />
       <workItem from="1602425123178" duration="509000" />
       <workItem from="1602450902490" duration="4133000" />
+      <workItem from="1602474088739" duration="10265000" />
     </task>
     <servers />
   </component>
@@ -264,7 +294,7 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601667499167" />
-    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602304221160">
+    <state x="534" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602477583465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602304221160" />
@@ -272,6 +302,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602452558777" />
+    <state x="534" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1602477583465" />
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602478946445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602478946445" />
     <state x="271" y="262" key="FileChooserDialogImpl" timestamp="1602413975474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -293,9 +328,28 @@
     </state>
     <state width="723" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602455258584" />
     <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602304158917">
+
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1602477583974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602304158917" />
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602477583974" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1602477583974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602477583974" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1602477583974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602477583974" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1602477583974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602477583974" />
+    <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602480044155">
+
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602480044155" />
     <state x="192" y="136" key="RollbackChangesDialog" timestamp="1602216255275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -304,18 +358,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601679033839" />
+
     <state x="234" y="329" key="VCS.ChangelistChooser" timestamp="1602453997927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="234" y="329" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1602453997927" />
     <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1602406935467">
+
+    <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1602479693265">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602406935467" />
-    <state x="762" y="0" width="781" height="830" key="dock-window-2" timestamp="1602415235222">
+    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602479693265" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-2" timestamp="1602481997958">
+
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="762" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602415235222" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602481997958" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-3" timestamp="1602483059956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1602483059956" />
     <state x="41" y="190" key="run.anything.popup" timestamp="1602383933492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

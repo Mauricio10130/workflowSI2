@@ -8,9 +8,9 @@
                 <div class="card-header">{{ __('Dashboard') }}</div>
 
                 <div class="card-body">
-                    @if (session('status'))
+                    @if (session('states'))
                         <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
+                            {{ session('states') }}
                         </div>
                     @endif
 
