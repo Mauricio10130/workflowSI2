@@ -18,7 +18,9 @@ class DatabaseSeeder extends Seeder
             'roles',
             'role_user',
             'states',
-            'categories'
+            'categories',
+            'procedures',
+            'procedure_user'
         ]);
 
         // $this->call(UsersTableSeeder::class);
@@ -28,6 +30,8 @@ class DatabaseSeeder extends Seeder
         $this->call(RoleUserSeeder::class);
         $this->call(StateSeeder::class);
         $this->call(CategorySeeder::class);
+        $this->call(ProcedureSeeder::class);
+        $this->call(ProcedureUserSeeder::class);
     }
 
     protected function truncateTables(array $tables)

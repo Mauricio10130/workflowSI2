@@ -305,7 +305,8 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="{{ url('tramites') }}"
+                                   class="{{ Request::path() === 'tramites' ? 'nav-link active' : 'nav-link' }}">
                                     <i class="fas fa-angle-double-right nav-icon"></i>
                                     <p>Registro de Trámite</p>
                                 </a>
