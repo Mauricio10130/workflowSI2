@@ -30,3 +30,4 @@ Route::resource('roles', 'RoleController');
 Route::resource('departamentos', 'DepartmentsController');
 Route::resource('estados', 'StatesController');
 Route::resource('categorias', 'CategoriesController');
+Route::resource('tramites', 'ProceduresController');

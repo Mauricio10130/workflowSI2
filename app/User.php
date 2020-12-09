@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\Models\Procedure;
 use App\Models\Role;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
@@ -54,5 +55,10 @@ class User extends Authenticatable
     public function departments()
     {
         return $this->belongsTo('App\Models\Department');
+    }
+
+    //Un usuario realiza muhcos trámites
+    public function procedures(){
+        return $this->belongsToMany(Procedure::class)->withTimestamps();
     }
 }

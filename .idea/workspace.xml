@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="856d3837-aa47-4ddc-a0d7-9d19c3e623b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeesController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
@@ -31,6 +32,11 @@
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DepartmentsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DepartmentsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/RoleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/RoleController.php" afterDir="false" />
 
+=======
+      <change beforePath="$PROJECT_DIR$/app/Models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/State.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/State.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+>>>>>>> Mauricio
       <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -166,7 +172,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -247,8 +253,31 @@
       <workItem from="1602474088739" duration="10265000" />
 
       <workItem from="1602474088739" duration="11234000" />
+<<<<<<< HEAD
       <workItem from="1602499847570" duration="6311000" />
 
+=======
+      <workItem from="1602499847570" duration="6734000" />
+      <workItem from="1602528776187" duration="3877000" />
+      <workItem from="1602535151661" duration="10451000" />
+      <workItem from="1602550286933" duration="10824000" />
+      <workItem from="1602766086291" duration="216000" />
+      <workItem from="1602767595550" duration="164000" />
+      <workItem from="1602767987419" duration="37000" />
+      <workItem from="1602820471877" duration="165000" />
+      <workItem from="1606256535727" duration="178000" />
+      <workItem from="1606705343682" duration="1257000" />
+      <workItem from="1606734300769" duration="1547000" />
+      <workItem from="1606798993338" duration="102000" />
+      <workItem from="1606904327135" duration="2179000" />
+      <workItem from="1606963695859" duration="2869000" />
+      <workItem from="1607035088134" duration="2462000" />
+      <workItem from="1607063993720" duration="2739000" />
+      <workItem from="1607078866585" duration="3293000" />
+      <workItem from="1607118227545" duration="1974000" />
+      <workItem from="1607295483333" duration="2223000" />
+      <workItem from="1607479385392" duration="1630000" />
+>>>>>>> Mauricio
     </task>
     <servers />
   </component>
@@ -268,14 +297,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="71" y="70" key="#CLI_Interpreters" timestamp="1601679014844">
+    <state x="71" y="70" key="#CLI_Interpreters" timestamp="1602767628256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="71" y="70" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1601679014844" />
-    <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601667499167">
+    <state x="71" y="70" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1602767628256" />
+    <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602767629669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601667499167" />
+    <state x="69" y="85" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602767629669" />
     <state x="534" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602477583465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -285,13 +314,14 @@
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602452558777" />
     <state x="534" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1602477583465" />
-    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602503697779">
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602555092445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602503697779" />
-    <state x="271" y="262" key="FileChooserDialogImpl" timestamp="1602413975474">
+    <state x="115" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602555092445" />
+    <state x="271" y="262" key="FileChooserDialogImpl" timestamp="1607298972239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+<<<<<<< HEAD
     <state x="271" y="262" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602413975474" />
 
     <state width="723" height="189" key="GridCell.Tab.0.bottom" timestamp="1602455258584">
@@ -316,35 +346,43 @@
 
     <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1602505831309">
 
+=======
+    <state x="271" y="262" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607298972239" />
+    <state width="723" height="184" key="GridCell.Tab.0.bottom" timestamp="1607483237899">
+>>>>>>> Mauricio
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602505831309" />
-    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1602505831309">
+    <state width="723" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607483237899" />
+    <state width="723" height="184" key="GridCell.Tab.0.center" timestamp="1607483237899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602505831309" />
-    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1602505831309">
+    <state width="723" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607483237899" />
+    <state width="723" height="184" key="GridCell.Tab.0.left" timestamp="1607483237899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602505831309" />
-    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1602505831309">
+    <state width="723" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607483237899" />
+    <state width="723" height="184" key="GridCell.Tab.0.right" timestamp="1607483237899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+<<<<<<< HEAD
 
     <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602477583974" />
     <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602480044155">
 
 
     <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602505831309" />
+=======
+    <state width="723" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607483237899" />
+>>>>>>> Mauricio
     <state x="498" y="135" key="NewPhpClassDialog" timestamp="1602503791729">
 
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1602503791729" />
-    <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602503847063">
+    <state x="220" y="339" key="NewPhpFileDialog" timestamp="1602556965772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602503847063" />
+    <state x="220" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602556965772" />
     <state x="192" y="136" key="RollbackChangesDialog" timestamp="1602216255275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -353,6 +391,7 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601679033839" />
+<<<<<<< HEAD
 
 
     <state x="234" y="329" key="VCS.ChangelistChooser" timestamp="1602453997927">
@@ -374,9 +413,16 @@
     <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602502132713" />
     <state x="762" y="0" width="781" height="830" key="dock-window-2" timestamp="1602503634216">
 
+=======
+    <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1602550875637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="762" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602503634216" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602550875637" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-2" timestamp="1602559840430">
+>>>>>>> Mauricio
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602559840430" />
     <state x="762" y="0" width="781" height="830" key="dock-window-3" timestamp="1602483059956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
